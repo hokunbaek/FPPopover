@@ -1,0 +1,18 @@
+[
+  {
+    "id": "c0179a5b-f58e-4742-8230-ecf0766c815c",
+    "email": "hokun.baek@gmail.com",
+    "password_hash": "$2a$10$hFC1EVuAElOihwhpbGX9NOJkdPX0kArSJKm/41P3sTDf7.Wbo.p2a",
+    "provider_credentials": [
+      {
+        "id": "341428b6-f9df-4370-8251-2e882bd7975b",
+        "email": "hokun.baek@gmail.com",
+        "full_name": "Initial Onboarding User credentials",
+        "provider_name": "GitHub",
+        "type": "github",
+        "remote_host": "github.com",
+        "encrypted_api_token": "fkcd0RML8mxJj4AEl1td1vqbpHwgXQRP4ZrA8mrZU1rNqD6z1b7OBoSlrKBv\ntzz15KVM687ZSrZlAD3Y3ZTOVw==\n"
+      }
+    ]
+  }
+]
